@@ -18,7 +18,7 @@ Automatically generate models for [SequelizeJS](https://github.com/sequelize/seq
 # optimize generated model object key and value commmas
 
 
-npm install -g @icai/sequelize-auto
+npm install -g icai/sequelize-auto
 
 ```
 
