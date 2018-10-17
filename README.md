@@ -10,6 +10,19 @@ Automatically generate models for [SequelizeJS](https://github.com/sequelize/seq
 
     npm install -g sequelize-auto
 
+
+```js
+# for this fork
+# support indexes
+# support egg framework
+# optimize generated model object key and value commmas
+
+
+npm install -g @icai/sequelize-auto
+
+```
+
+
 ## Prerequisites
 
 You will need to install the correct dialect binding globally before using sequelize-auto.
