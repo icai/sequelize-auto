@@ -63,6 +63,9 @@ Example for MSSQL
       -n, --no-write    Prevent writing the models to disk.
       -s, --schema      Database schema from which to retrieve tables
       -z, --typescript  Output models as typescript with a definitions file.
+      -f, --camel-file-name  Use camel case for file name
+      -g, --egg              Use egg Sequelize
+
 
 ## Example
 
